@@ -1,0 +1,58 @@
+Es muy recomendado desarrollar con pruebas, así cuando tienes un error en tus páginas, las pruebas te ayudarán a identificarlos en lugar de estar media hora tratando de adivinar por qué decidí estudiar programación y no otra cosa jaja
+
+Laravel tiene un módulo de pruebas con PHPUnit, así que les recomiendo mucho tomar mucha atención a estas clases.
+
+composer vamos a usar composer...
+
+
+bueno instalemos phpUnit
+
+
+composer require --dev phpunit/phpunit
+
+
+despues agregamos los isguiente al archivo composer.json
+
+
+    "name": "frodriguez/examplePoo",
+    "description": "Proyecto de Poo",
+    "autoload":{
+        "psr-4": {
+            "App:\\": "src/"
+        }
+    },
+
+
+
+guardamos y registramos eso
+
+composer dump
+
+registramos esta informacion con ese comando
+
+ahora creamos en la raiz del proyecto el archivo
+
+
+vim phpunit.xml
+
+<?xml version="1.0" encode="UTF-8"?>
+<phpunit bootstrap="vendor/autoload" colors="true">
+    <testsuite name="Test directory">
+        <directory>tests</directory>
+    </testsuite>
+</phpunit>
+
+gurdamos
+
+
+y creamos la carpeta tests
+
+mkdir tests y dentro del folder creamos el archivo PostTest.php
+
+bueno le crea el contenido que esta 
+
+
+xd
+
+
+
