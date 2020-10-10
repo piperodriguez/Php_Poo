@@ -1,0 +1,23 @@
+vendor/phpunit/phpunit/phpunit
+
+ejecutando las pruebas
+
+identifiquemos que en nuestro archivo
+composer.json
+
+nosotros establecimos la siguiente carpeta src
+la creamos y definimos la clase post
+
+
+importante el namespace
+
+si no lo reconoce 
+
+composer dump-autoload
+
+
+buyeno toca programar asi
+creo la prueba
+despues el codigo
+
+esto me hacerca a ser un developer senior...

@@ -6,10 +6,14 @@ use App\Comment;
 
 class PostTest extends TestCase
 {
+    /** @test */
     public function agregarComentariosPost()
     {
         $post = new Post();
         $comment = new Comment();
+
+        /*Probando que sea una instnacia de la clase
+        $comment="la maldita primavera";*/
 
         $post->agregarComentario($comment);
         //comprobar que tengo un post

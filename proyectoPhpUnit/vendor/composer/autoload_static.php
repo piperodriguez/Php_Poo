@@ -37,7 +37,7 @@ class ComposerStaticInit74e11c0d5fa90b53be14a24b1da9ec62
         ),
         'A' => 
         array (
-            'App:\\' => 5,
+            'App\\' => 4,
         ),
     );
 
@@ -72,7 +72,7 @@ class ComposerStaticInit74e11c0d5fa90b53be14a24b1da9ec62
         array (
             0 => __DIR__ . '/..' . '/myclabs/deep-copy/src/DeepCopy',
         ),
-        'App:\\' => 
+        'App\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),
