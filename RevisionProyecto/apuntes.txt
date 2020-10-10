@@ -1,0 +1,5 @@
+Identificar que trabajamos con composer
+
+agregamos php unit
+
+ejecutamos las pruebas
