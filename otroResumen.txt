@@ -1,0 +1,25 @@
+Me encantó dar un repaso por los conceptos de Programación Orientada a Objetos, sueles llevar mucho tiempo haciendo código que se te olvida que la teoría también es importante, me está gustando mucho este curso, aún así sigo pensando que el concepto de Herencia debió de haber sido el primer concepto de todos a enseñar jaja, pero fuera de eso está genial.
+
+Si estás en este punto y aún tienes dudas, te recomiendo mirar los capítulos de nuevo, son muy claros, solo debes analizarlos, no te preocupes si no los entiendes, cuesta un poco al inicio pero con perseverancia lo logras, a mi me tomó tiempo entenderlos, asimilarlos y aplicarlos, ¡No te desanimes! Haciendo mi aporte, trataré de explicar todo con palabras muy simples:
+
+Programación Orientada a Ojetos: Es una forma de programación que representa objetos del mundo real en código, haciendo uso de clases, que pueden ser vistas como plantillas.
+
+Clase: Una clase es una plantilla del objeto, esta define qué propiedades contiene y qué acciones puede realizar, siempre actuando como una plantilla.
+
+Instancia: Una instancia es básicamente usar la clase que tenemos como plantilla y asignar propiedades a dicha instancia, una instancia es básicamente ese “$var = new Clase();” eso es todo, eso es una instancia.
+
+Por ejemplo, puedo tener la clase Coche, que tiene como atributo el color, y puedo tener dos instancias de esa clase, una instancia me puede decir que el coche es color azul y la otra instancia me puede decir que el coche es rojo, tengo dos objetos diferentes que hacen referencia a una misma clase.
+
+Método: No nos compliquemos, es una manera “fancy” de llamarle a una función dentro de una clase, un método es una función, listo, la única diferencia es que el método esta dentro de una clase, that’s all.
+
+Propiedad/Atributo: Exactamente lo mismo, una propiedad o un atributo es una manera “fancy” de llamarle a una variable que está dentro de una clase, pero es eso, es una variable, la única diferencia es que está dentro de una clase.
+
+Herencia:* Es, como su nombre lo dice, heredar los métodos y propiedades de una clase en otra clase, siempre y cuando puedan ser heredados, y el si pueden o no pueden ser heredados lo define el encapsulamiento.
+
+Encapsulamiento: Es el “alcance” de las variables, es decir, definen quién pueden ser heredada, quién no, quién puede ser manipulada desde fuera de la clase, etc. Usando las palabras “private, protected y public”, les recomiendo leer mi aporte en la clase de encapsulamiento pues lo explico con mucho más detalles y ejemplos 😄
+
+Polimorfismo: Uy, esta palabra da escalofríos de solo leerla, ¿Verdad? ¿Y si te digo que detrás de este monstruo se esconde un lindo y tierno gatito? Polimorfismo no es más que hacer que una clase se comporte de maneras distintas sobreescribiendo algunos de sus méotodos, y la manera de sobreescribirlos es heredando esa clase. Básicamente es “hacer que una clase pueda tener varias formas” ¡Como Dito!, ¿Conocen ese Pakiman? ¡Es una criatura polimórifica!
+
+Modularidad: Dividir tu código o proyecto en varias partes o archivos, así es más fácil de leer y mantener
+
+Espero poder aclarar algunas dudas, este tema puede parecer complicado al inicio pero la verdad es muy fácil, ¡No se rindan! ��

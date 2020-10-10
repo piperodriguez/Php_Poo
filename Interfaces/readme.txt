@@ -1,0 +1,1 @@
+Sigo pensando que una interfaz es como una plantilla, una plantilla estricta que te dice qué es lo que debes de poner de manera obligatoria y ya tu terminas de rellenarla con los datos que necesites, en este caso, una plantilla de una clase.
